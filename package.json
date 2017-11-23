@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BboxLab/genres-family.git"
+    "url": "git+git://github.com/BboxLab/genres-family.git"
   },
   "author": "Bouygues Telecom",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BboxLab/genres-family/issues"
+    "url": "git://github.com/BboxLab/genres-family/issues"
   },
   "homepage": "https://github.com/BboxLab/genres-family#readme"
 }

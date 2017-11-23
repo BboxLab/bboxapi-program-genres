@@ -34,4 +34,5 @@ const genres = {
 	]
 }
 
-export default genres;
+
+module.exports = genres;
