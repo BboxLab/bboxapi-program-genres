@@ -1,10 +1,4 @@
 const genres = {
-	"Film": [
-		"Horeur", "Horreur", "Espionnage", "Comédie policière", "Suspense", "Fantastique", "Policier", "Western", "Cinéma", "Science-fiction", "Comédie dramatique", "Comédie musicale", "Histoire", "Biographie", "Téléfilm", "Drame", "Comédie", "Action", "Court métrage"
-	],
-	"Série": [
-		"Horeur", "Horreur", "Espionnage", "Comédie policière", "Suspense", "Fantastique", "Policier", "Western", "Science-fiction", "Comédie dramatique", "Comédie musicale", "Histoire", "Biographie", "Drame", "Comédie", "Action", "Animation"
-	],
 	"Sport": [
 		"Patinage artistique", "Sports d'hiver", "Formule 1", "Equitation", "Kick-boxing", "Biathlon", "Athlétisme", "Volley-ball", "Cyclo-cross", "Cyclisme", "Ski", "Ski freestyle", "Snowboard", "Catch", "Kiteboard", "Tennis", "NASCAR", "Hippisme", "Précision", "Pétanque", "Mécanique", "Rallycross", "Automobilisme", "Cesta punta", "Golf", "Hockey sur glace", "Surf", "Nautisme", "Sportsnautiques", "Motonautisme", "Canoë-kayak", "Sports nautiques", "Fun", "Sports de combat", "Boxe", "Handball", "Rugby", "Par équipes", "Football américain", "Voile", "Basket-ball", "Fitness", "Football", "Multisports", "e-sport"
 	],
@@ -29,10 +23,16 @@ const genres = {
 	"Charme": [
 		"Pornographie", "Erotisme"
 	],
+	"Film": [
+		"Horeur", "Horreur", "Espionnage", "Comédie policière", "Suspense", "Fantastique", "Policier", "Western", "Cinéma", "Science-fiction", "Comédie dramatique", "Comédie musicale", "Histoire", "Biographie", "Téléfilm", "Drame", "Comédie", "Action", "Court métrage", "Animation"
+	],
+	"Série": [
+		"Horeur", "Horreur", "Espionnage", "Comédie policière", "Suspense", "Fantastique", "Policier", "Western", "Science-fiction", "Comédie dramatique", "Comédie musicale", "Histoire", "Biographie", "Drame", "Comédie", "Action", "Animation"
+	],
 	"Autre": [
 		"Education", "Spéciale", "Voyance", "A découvrir", "Consommation", "Fiction", "Météo", "Programme indéterminé", "Programme", "Services", "Fin", "Magazine"
 	]
-}
+};
 
 
 module.exports = genres;
